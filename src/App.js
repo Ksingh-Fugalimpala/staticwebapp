@@ -87,43 +87,53 @@ function App() {
       <div class="container text-center">
         <div class="row align-items-start">
           <div class="col">
-            <div class="card" style={{width: "18rem;"}}>
-              <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80" class="card-img-top" alt="..." />
+            <div class="card" style={{ width: "18rem;" }}>
+              <img
+                src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+                class="card-img-top"
+                alt="..."
+              />
               <div class="card-body">
                 <h5 class="card-title">Card title</h5>
-                <p class="card-text">
-                  Technology
-                </p>
+                <p class="card-text">Technology</p>
                 <a href="#" class="btn btn-primary">
                   Read Article
                 </a>
               </div>
             </div>
           </div>
-          <div class="col"><div class="card" style={{width: "18rem;"}}>
-              <img src="https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FyfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60" class="card-img-top" alt="..." />
+          <div class="col">
+            <div class="card" style={{ width: "18rem;" }}>
+              <img
+                src="https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FyfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+                class="card-img-top"
+                alt="..."
+              />
               <div class="card-body">
                 <h5 class="card-title">Card title</h5>
-                <p class="card-text">
-                  Automobile
-                </p>
+                <p class="card-text">Automobile</p>
                 <a href="#" class="btn btn-primary">
                   Read Article
                 </a>
               </div>
-            </div></div>
-          <div class="col"><div class="card" style={{width: "18rem;"}}>
-              <img src="https://images.unsplash.com/photo-1513364776144-60967b0f800f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YXJ0fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60" class="card-img-top" alt="..." />
+            </div>
+          </div>
+          <div class="col">
+            <div class="card" style={{ width: "18rem;" }}>
+              <img
+                src="https://images.unsplash.com/photo-1513364776144-60967b0f800f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YXJ0fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+                class="card-img-top"
+                alt="..."
+              />
               <div class="card-body">
                 <h5 class="card-title">Card title</h5>
-                <p class="card-text">
-                  Art
-                </p>
+                <p class="card-text">Art</p>
                 <a href="#" class="btn btn-primary">
                   Read Article
                 </a>
               </div>
-            </div></div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
