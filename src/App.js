@@ -95,7 +95,7 @@ function App() {
                   Technology
                 </p>
                 <a href="#" class="btn btn-primary">
-                  Go somewhere
+                  Read Article
                 </a>
               </div>
             </div>
@@ -108,7 +108,7 @@ function App() {
                   Automobile
                 </p>
                 <a href="#" class="btn btn-primary">
-                  Go somewhere
+                  Read Article
                 </a>
               </div>
             </div></div>
@@ -120,7 +120,7 @@ function App() {
                   Art
                 </p>
                 <a href="#" class="btn btn-primary">
-                  Go somewhere
+                  Read Article
                 </a>
               </div>
             </div></div>
